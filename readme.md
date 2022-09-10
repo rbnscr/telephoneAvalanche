@@ -6,3 +6,5 @@ The three of them each call five of their friends, which in turn call some frien
 - You can only calls _once_ per simulation
 - Do not call the person(s), who called you
 
+# Try for yourself
+If you want to run some simulations for yourself, have a look at the jupyter-notebook. Only minimal requirements should be needed.
